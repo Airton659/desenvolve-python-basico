@@ -1,1 +1,7 @@
-# desenvolve-python-basico
+# desenvolve-python-basico#
+
+## Projeto Desenvolve - Itabira 
+
+### Programação básica com Python
+
+### Matrícula: PD063
