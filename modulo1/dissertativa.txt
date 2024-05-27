@@ -1,0 +1,5 @@
+1 - Inicie as variáveis numero, dezena e unidade;
+2 - Leia e armazene o número para a tabuada de 9 desejada; 
+3 - Aplique a subtração do número por 1 e armazene o resultado na dezena;
+4 - Aplique a subtração de 10 pelo número e armazene o resultado na unidade;
+5 - Apresente uma concatenaçao entre dezena e unidade e finalize o programa.
