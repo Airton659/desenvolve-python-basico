@@ -1,6 +1,7 @@
-1 - Início
-2 - Leia Numero
-3 - Uni = Numero -1
-4 - Dez = 10 - Numero
-5 - Imprima "Uni" + "Dez"
-6 - Fim
+1 - Início;
+2 - Leia Numero;
+3 - Uni = Numero -1;
+4 - Dez = 10 - Numero;
+5 - Final = (Dez X 10) + Uni;
+6 - Imprima Final;
+7 - Fim;
