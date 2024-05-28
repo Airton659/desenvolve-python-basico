@@ -14,3 +14,10 @@ if distancia > 100 and distancia <=300:
         print(f"O valor do frete é: R${valor}")
     else:
         print(f"O valor do frete é: R${valor}")
+if distancia > 300:
+    valor = peso * 2
+    if peso > 10:
+        valor= valor + 10
+        print(f"O valor do frete é: R${valor}")
+    else:
+        print(f"O valor do frete é: R${valor}")
